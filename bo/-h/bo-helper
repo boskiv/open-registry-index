@@ -6,3 +6,6 @@
 {"name":"bo-helper","vers":"0.1.5","deps":[],"cksum":"f3fb33e0c87ae01ac083b7e0c9a5b549a2f2949497c27168b30edb7f117d115d","features":{},"yanked":false,"links":""}
 {"name":"bo-helper","vers":"0.1.6","deps":[],"cksum":"9c48a49c2994404fa587e5a2d6ea5493aa59c6ee967de6c1235d2114937e0833","features":{},"yanked":false,"links":""}
 {"name":"bo-helper","vers":"0.1.7","deps":[],"cksum":"463a3eddd22bf01302d50e1211eff2efc7270fe2a27984c323c9490942cb421c","features":{},"yanked":false,"links":""}
+{"name":"bo-helper","vers":"0.1.8","deps":[],"cksum":"dbbdfe60a6fbc4b76e69cf0fd9d8cb132d4f54208a217efeaca9e11ec37a3049","features":{},"yanked":false,"links":""}
+{"name":"bo-helper","vers":"0.1.9","deps":[],"cksum":"75e5d2b42ff936d2f817e4ce7fcfe3662e56f1c34d51004cd98595b553cc8fb5","features":{},"yanked":false,"links":""}
+{"name":"bo-helper","vers":"0.1.10","deps":[],"cksum":"ecdea714002810d62b818e89e3b2bfa03b69a5f290e5d32ab7cae09e73875711","features":{},"yanked":false,"links":""}
