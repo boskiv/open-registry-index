@@ -10,3 +10,4 @@
 {"name":"bo-helper","vers":"0.1.9","deps":[],"cksum":"75e5d2b42ff936d2f817e4ce7fcfe3662e56f1c34d51004cd98595b553cc8fb5","features":{},"yanked":false,"links":""}
 {"name":"bo-helper","vers":"0.1.10","deps":[],"cksum":"ecdea714002810d62b818e89e3b2bfa03b69a5f290e5d32ab7cae09e73875711","features":{},"yanked":false,"links":""}
 {"name":"bo-helper","vers":"0.1.11","deps":[],"cksum":"eb65ab4d5e6775233b0fb306789e9cd783cebb604ca793f7f7fffbc5784b729e","features":{},"yanked":false,"links":""}
+{"name":"bo-helper","vers":"0.1.12","deps":[],"cksum":"0d8bc7d85e49980d2184ece27aab4859afcfdc8423410d24fc27e3e7592f9e0c","features":{},"yanked":false,"links":""}
