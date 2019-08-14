@@ -61,3 +61,4 @@
 {"name":"bo-helper","vers":"0.1.14","deps":[],"cksum":"87dab84b0f4a0604f7ead9f5c19131ceeea9d23049a7627edaf6fafe77c13adc","features":{},"yanked":false,"links":""}
 {"name":"bo-helper","vers":"0.1.14","deps":[],"cksum":"87dab84b0f4a0604f7ead9f5c19131ceeea9d23049a7627edaf6fafe77c13adc","features":{},"yanked":false,"links":""}
 {"name":"bo-helper","vers":"0.1.15","deps":[],"cksum":"cbb9ca4f020ac0188d10c6ceb039c6396334ff07ca05862d650178d6981b23d1","features":{},"yanked":false,"links":""}
+{"name":"bo-helper","vers":"0.1.16","deps":[],"cksum":"cb6ee79d9af3ad02acf0a2e76ad19abd0408d3a9c0e400ed5dde603b7ea16978","features":{},"yanked":false,"links":""}
